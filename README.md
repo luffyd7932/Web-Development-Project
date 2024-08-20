@@ -1,2 +1,3 @@
 # Web-Development-Project
-Its my first web development project
+A dynamic platform offering a wide range of quiz domains. This portal provides challengers with
+engaging and diverse quizzes, fostering both learning and competition.
